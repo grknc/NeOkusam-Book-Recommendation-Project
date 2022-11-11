@@ -2,7 +2,8 @@
 
 ### Bu projemizde 5 farklı bir veri seti kullanarak veri temizleme & önişlem yaparak yeni bir veri seti oluşturduk.
 
-#### Veri Temizleme & Ön-İşleme
+#### Veri Temizleme & Ön-İşleme 
+(https://github.com/grknc/NeOkusam-Book-Recommendation-Project/blob/main/jupyter_notebook/1-final_project_data_cleaning_preparation.ipynb)
 
 #### Veri Görselleştirme
 
