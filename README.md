@@ -18,6 +18,6 @@
 
 ##### -[Birliktelik Kurallı Öğrenme ve Tavsiye Sistemi](https://github.com/grknc/NeOkusam-Book-Recommendation-Project/blob/main/jupyter_notebook/6-final_project_arl_recommender.ipynb)
 
-### Makine Öğrenmesi ModeLi
+### Makine Öğrenmesi Modeli
 
 #### - [PCA(Temel Bileşenler Analizi) ve Kümeleme](https://github.com/grknc/NeOkusam-Book-Recommendation-Project/blob/main/jupyter_notebook/7-final_project_pca.ipynb)
